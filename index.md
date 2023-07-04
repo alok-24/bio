@@ -1,4 +1,13 @@
 ## Alok Chauhan
+<details>
+  <summary>Photos</summary>
+  <img src="jpeg/IMG_4480.jpeg" name="image-name", width="500">
+  <img src="jpeg/IMG_4484.jpeg" name="image-name", width="500">
+  <img src="jpeg/IMG_4629.jpeg" name="image-name", width="500">
+  <img src="jpeg/IMG_4657.jpeg" name="image-name", width="500">
+</details>
+
+### About
 |    |    | 
 |----|----|
 |Date of Birth| 24th September 1994|
@@ -6,7 +15,12 @@
 |Complexion| Warm Beige|
 |Native Place| Mainpuri|
 
-
+### Interests
+`Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi \
+`Cricket` right arm fast bolwer \
+`Gym` daily gym goer \
+`Reading` loves to read books on philosophy, technology and enterpreneurship \
+`Coding` writes code as my profession
 
 ### Education
 | Qualification  | Year  | Percentage  |
@@ -31,7 +45,3 @@
 | Mrs. Suman Chauhan | Mother | | Homemaker|
 | Sweve | Brother | B.A Economic Honors| Studying|
 | Shruti | Sister | B.Com Honors | Studying|
-
-
-
-
