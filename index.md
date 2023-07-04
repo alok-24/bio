@@ -8,6 +8,7 @@
 </details>
 
 ### About
+
 |    |    | 
 |----|----|
 |Date of Birth| 24th September 1994|
@@ -23,6 +24,7 @@
 `Coding` writes code as my profession
 
 ### Education
+
 | Qualification  | Year  | Percentage  |
 |---|---|---|
 | `High school`  | `2010`  | `8.4 CGPA` |
@@ -38,7 +40,8 @@
 | Biz2Credit Infoservices | Data Scientist | Aug 2018 - Apr 2020 · 1 yr 9 mos | Noida|
 | Semusi| Machine Learning Engineer | Jun 2017 - Mar 2018 · 10 mos | Noida|
 
-### Family Details:
+### Family Details
+
 |  Name  |  Relation  |  Education  | Occupation |
 |:----:|:----:|:----:|:----:|
 | Mr. Ramesh Chauhan | Father | | Small Business |
