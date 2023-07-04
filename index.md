@@ -26,10 +26,10 @@
 ### Education
 
 | Qualification  | Year  | Percentage  |
-|---|---|---|
+|:---:|:---:|:---:|
 | `High school`  | `2010`  | `8.4 CGPA` |
 | `Intermediate` | `2012`  | `72`       |
-| `B.Tech.`  | `2017`  | `62`           |
+| `B.Tech. Computer Science`  | `2017`  | `62`     |
 
 ### Professional Journey
 
