@@ -3,8 +3,11 @@
   <summary>Photos</summary>
   
   ![](jpeg/IMG_4480.jpeg?raw=true)
+  
   ![](jpeg/IMG_4484.jpeg?raw=true)
+  
   ![](jpeg/IMG_4629.jpeg?raw=true)
+  
   ![](jpeg/IMG_4657.jpeg?raw=true)
   
 </details>
