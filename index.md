@@ -1,15 +1,10 @@
 ## Alok Chauhan
 <details>
   <summary>Photos</summary>
-  
-  ![](jpeg/IMG_4480.jpeg?raw=true)
-  
-  ![](jpeg/IMG_4484.jpeg?raw=true)
-  
-  ![](jpeg/IMG_4629.jpeg?raw=true)
-  
-  ![](jpeg/IMG_4657.jpeg?raw=true)
-  
+  <img src="jpeg/IMG_4480.jpeg"/>
+  <img src="jpeg/IMG_4484.jpeg"/>
+  <img src="jpeg/IMG_4629.jpeg"/>
+  <img src="jpeg/IMG_4657.jpeg"/>
 </details>
 
 ### About
