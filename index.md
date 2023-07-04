@@ -1,10 +1,12 @@
 ## Alok Chauhan
 <details>
   <summary>Photos</summary>
-  <img src="jpeg/IMG_4480.jpeg" name="image-name", width="500">
-  <img src="jpeg/IMG_4484.jpeg" name="image-name", width="500">
-  <img src="jpeg/IMG_4629.jpeg" name="image-name", width="500">
-  <img src="jpeg/IMG_4657.jpeg" name="image-name", width="500">
+  
+  ![](jpeg/IMG_4480.jpeg?raw=true)
+  ![](jpeg/IMG_4484.jpeg?raw=true)
+  ![](jpeg/IMG_4629.jpeg?raw=true)
+  ![](jpeg/IMG_4657.jpeg?raw=true)
+  
 </details>
 
 ### About
@@ -18,8 +20,8 @@
 
 ### Interests
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi \
-`Cricket` right arm fast bolwer \
 `Gym` daily gym goer \
+`Cricket` for fitness (fast bowler)\
 `Reading` loves to read books on philosophy, technology and enterpreneurship \
 `Coding` writes code as my profession
 
