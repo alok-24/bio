@@ -21,7 +21,7 @@
 `Gym` daily gym goer \
 `Cricket` for fitness (fast bowler)\
 `Reading` loves to read books on philosophy, technology and enterpreneurship \
-`Coding` writes code as my profession
+`Coding` write code as my profession
 
 ### Education
 
