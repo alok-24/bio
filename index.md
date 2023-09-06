@@ -18,10 +18,10 @@
 |Native Place| Mainpuri|
 
 ### Interests
-`Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi \
-`Gym` daily gym goer \
+`Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi and some off-beat treks\
+`Gym` reagular gym goer \
 `Cricket` for fitness (fast bowler)\
-`Reading` prefered genre philosophy, technology and enterpreneurship \
+`Reading` prefered genre history, psychology, philosophy, technology and enterpreneurship \
 `Coding` write code as my profession
 
 ### Education
