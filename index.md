@@ -19,8 +19,8 @@
 
 ### Interests
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi and some off-beat treks\
-`Gym` reagular gym goer \
-`Cricket` for fitness (fast bowler)\
+`Gym` regular gym goer \
+`Cricket` Right arm fast bowler \
 `Reading` prefered genre history, psychology, philosophy, technology and enterpreneurship \
 `Coding` write code as my profession
 
