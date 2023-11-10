@@ -19,10 +19,11 @@
 
 ### Interests
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi and some off-beat treks\
-`Gym` regular gym goer \
+`Gym` Regular gym goer \
 `Cricket` Right arm fast bowler \
-`Reading` prefered genre history, psychology, philosophy, technology and enterpreneurship \
-`Coding` write code as my profession
+`Reading` Prefered genre History, Psychology, Philosophy, Technology and Enterpreneurship \
+`Coding` Write code as my profession \
+`Meditation` Vipassna practitioner
 
 ### Education
 
@@ -36,7 +37,7 @@
 
 | Company Name | Designation   |  Duration  | Location|
 |:--------------:|:---------------:|:------------:|:---------:|
-| Fishtail.ai | ML Engineer | Feb 2022 - Present · 1 yr 6 mos | Remote|
+| Fishtail.ai | ML Engineer | Feb 2022 - Present · 1 yr 9 mos | Remote|
 | Exl Services | Lead Assistant Manager | Sept 2021 - June 2022 · 9 mos| Gurgaon |
 | AlphaCrest Capital Management | Data Scientist | May 2020 - Aug 2021 · 1 yr 4 mos| Noida|
 | Biz2Credit Infoservices | Data Scientist | Aug 2018 - Apr 2020 · 1 yr 9 mos | Noida|
