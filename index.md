@@ -37,7 +37,7 @@
 
 | Company Name | Designation   |  Duration  | Location|
 |:--------------:|:---------------:|:------------:|:---------:|
-| Fishtail.ai | ML Engineer | Feb 2022 - Present · 1 yr 9 mos | Remote|
+| Fishtail.ai | Sr. Data Scientist | Feb 2022 - Present · 1 yr 9 mos | Remote|
 | Exl Services | Lead Assistant Manager | Sept 2021 - June 2022 · 9 mos| Gurgaon |
 | AlphaCrest Capital Management | Data Scientist | May 2020 - Aug 2021 · 1 yr 4 mos| Noida|
 | Biz2Credit Infoservices | Data Scientist | Aug 2018 - Apr 2020 · 1 yr 9 mos | Noida|
