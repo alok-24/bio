@@ -22,7 +22,8 @@
 `Cricket` Right arm fast bowler \
 `Reading` Prefered genre History, Psychology, Philosophy, Technology and Enterpreneurship \
 `Coding` Write code as my profession \
-`Meditation` Vipassna practitioner
+`Meditation` Vipassna practitioner \
+`Chess`
 
 ### Education
 
@@ -46,7 +47,7 @@
 
 |  Name  |  Relation  |  Education  | Occupation |
 |:----:|:----:|:----:|:----:|
-| Mr. Ramesh Chauhan | Father | | Small Business |
+| Mr. Ramesh Chauhan | Father | | Business |
 | Mrs. Suman Chauhan | Mother | | Homemaker|
 | Sweve | Brother | B.A Economic Honors| Studying|
 | Shruti | Sister | B.Com Honors | Studying|
