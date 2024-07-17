@@ -17,13 +17,13 @@
 |Native Place| Mainpuri|
 
 ### Interests
-`Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Vaishno devi and some off-beat treks\
+`Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Khaliya Top, Thamri Kund and some off-beat treks\
 `Gym` Regular gym goer \
 `Cricket` Right arm fast bowler \
-`Reading` Prefered genre History, Psychology, Philosophy, Technology and Enterpreneurship \
-`Coding` Write code as my profession \
+`Reading` Prefered genre `History, Psychology, Philosophy, Technology and Enterpreneurship` \
+`Coding` Writing code is my profession \
 `Meditation` Vipassna practitioner \
-`Chess`
+`Chess` Play online competitions(chess.com)
 
 ### Education
 
