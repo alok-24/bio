@@ -16,7 +16,11 @@
 |Complexion| Warm Beige|
 |Native Place| Mainpuri|
 
+### What I do?
+I am a shape rotator who makes sense of data with applied Probability, Statistics, and Mathematics. Simply put, I use math to turn complex data into useful information that helps people and businesses make better decisions.
+
 ### Interests
+
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Khaliya Top, Thamri Kund and some off-beat treks\
 `Gym` Regular gym goer \
 `Cricket` Right arm fast bowler \
