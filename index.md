@@ -27,7 +27,7 @@ A shape rotator who makes sense of data with applied Probability, Statistics, an
 `Reading` Prefered genre `History, Psychology, Philosophy, Technology and Enterpreneurship` \
 `Coding` Writing code is my profession \
 `Meditation` Vipassna practitioner \
-`Chess` Play online tournaments(Chess.com Profile: https://www.chess.com/stats/live/rapid/imallok)
+`Chess` Play online tournaments(Chess.com [Profile](https://www.chess.com/stats/live/rapid/imallok))
 
 ### Education
 
