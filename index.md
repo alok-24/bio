@@ -17,7 +17,7 @@
 |Native Place| Mainpuri|
 
 ### What I do?
-I am a shape rotator who makes sense of data with applied Probability, Statistics, and Mathematics. Simply put, I use math to turn complex data into useful information that helps people and businesses make better decisions.
+A shape rotator who makes sense of data with applied Probability, Statistics, and Mathematics. Simply put, I use math to turn complex data into useful information that helps people and businesses make better decisions.
 
 ### Interests
 
@@ -27,7 +27,7 @@ I am a shape rotator who makes sense of data with applied Probability, Statistic
 `Reading` Prefered genre `History, Psychology, Philosophy, Technology and Enterpreneurship` \
 `Coding` Writing code is my profession \
 `Meditation` Vipassna practitioner \
-`Chess` Play online competitions(chess.com)
+`Chess` Play online tournaments(Chess.com Profile: https://www.chess.com/stats/live/rapid/imallok)
 
 ### Education
 
