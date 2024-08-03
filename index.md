@@ -23,19 +23,19 @@ A shape rotator who makes sense of data with applied Probability, Statistics, an
 
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Khaliya Top, Thamri Kund and some off-beat treks\
 `Gym` Regular gym goer \
-`Cricket` Right arm fast bowler \
-`Reading` Prefered genre `History, Psychology, Philosophy, Technology and Enterpreneurship` \
-`Coding` Writing code is my profession \
+`Cricket` Bowling (Right Arm Fast) : [Profile](https://cricheroes.com/player-profile/22092437/alok/stats) \
+`Reading` Prefers genre `History, Psychology, Philosophy, Science and Enterpreneurship` \
+`Coding` Writing code is my profession : [Profile](https://www.linkedin.com/in/alokkik)\
 `Meditation` Vipassna practitioner \
-`Chess` Play online tournaments(Chess.com [Profile](https://www.chess.com/stats/live/rapid/imallok))
+`Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
 
 ### Education
 
-| Qualification  | Year  | Percentage  |
-|:---:|:---:|:---:|
-| `High school`  | `2010`  | `8.4 CGPA` |
-| `Intermediate` | `2012`  | `72`       |
-| `B.Tech. Computer Science`  | `2017`  | `62`     |
+| Qualification  | Year  |
+|:---:|:---:|
+| `High school`  | `2010`  |
+| `Intermediate` | `2012`  |
+| `B.Tech. Computer Science`  | `2017`  |
 
 ### Professional Journey
 
@@ -55,3 +55,21 @@ A shape rotator who makes sense of data with applied Probability, Statistics, an
 | Mrs. Suman Chauhan | Mother | | Homemaker|
 | Sweve | Brother | B.A Economic Honors| Studying|
 | Shruti | Sister | B.Com Honors | Studying|
+
+
+<details>
+  <summary>Books Read</summary>
+  
+- श्रीमद्भगवद्गीता
+- अष्टावक्र गीता
+- My Gita by Devdutt pattanaik
+- Sapiens: A brief history of humankind by Yuval Noah Harari
+- Glimpses of World History by Jawaharlal Nehru
+- A Brief History of Time by Stephen Hawking
+- Atomic Habits by James Clear
+- The Alamanack of Naval Ravikant by Eric Jorgenson
+- The Lean Startup by Eric Ries
+- The Diary of a young girl by Anne Frank
+- The Alchemist by Paulo Coelho
+</details>
+
