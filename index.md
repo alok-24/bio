@@ -17,7 +17,7 @@
 |Native Place| Mainpuri|
 
 ### What I do?
-A shape rotator who makes sense of data with applied Probability, Statistics, and Mathematics. Simply put, I use math to turn complex data into useful information that helps people and businesses make better decisions.
+A shape rotator who applies Probability, Statistics, and Mathematics in my daily work, while also creating cutting-edge generative AI applications.
 
 ### Interests
 
