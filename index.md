@@ -58,20 +58,17 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 | Shruti | Sister | B.Com Honors | Studying|
 
 
-<details>
-  <summary>Books Read</summary>
-  
-  - श्रीमद्भगवद्गीता      
-  - अष्टावक्र गीता    
-  - *My Gita* by Devdutt Pattanaik      
-  - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
-  - *Glimpses of World History* by Jawaharlal Nehru      
-  - *A Brief History of Time* by Stephen Hawking      
-  - *Atomic Habits* by James Clear      
-  - *The Almanack of Naval Ravikant* by Eric Jorgenson      
-  - *The Lean Startup* by Eric Ries        
-  - *The Diary of a Young Girl* by Anne Frank      
-  - *The Alchemist* by Paulo Coelho
-  
-</details>
+### Books
+- श्रीमद्भगवद्गीता      
+- अष्टावक्र गीता    
+- *My Gita* by Devdutt Pattanaik      
+- *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
+- *Glimpses of World History* by Jawaharlal Nehru      
+- *A Brief History of Time* by Stephen Hawking      
+- *Atomic Habits* by James Clear      
+- *The Almanack of Naval Ravikant* by Eric Jorgenson      
+- *The Lean Startup* by Eric Ries        
+- *The Diary of a Young Girl* by Anne Frank      
+- *The Alchemist* by Paulo Coelho
+
 
