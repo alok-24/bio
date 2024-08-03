@@ -60,16 +60,16 @@ A shape rotator who makes sense of data with applied Probability, Statistics, an
 <details>
   <summary>Books Read</summary>
   
-- श्रीमद्भगवद्गीता
-- अष्टावक्र गीता
-- My Gita by Devdutt pattanaik
-- Sapiens: A brief history of humankind by Yuval Noah Harari
-- Glimpses of World History by Jawaharlal Nehru
-- A Brief History of Time by Stephen Hawking
-- Atomic Habits by James Clear
-- The Alamanack of Naval Ravikant by Eric Jorgenson
-- The Lean Startup by Eric Ries
-- The Diary of a young girl by Anne Frank
-- The Alchemist by Paulo Coelho
+- श्रीमद्भगवद्गीता      
+- अष्टावक्र गीता    
+- My Gita by Devdutt pattanaik      
+- Sapiens: A brief history of humankind by Yuval Noah Harari      
+- Glimpses of World History by Jawaharlal Nehru      
+- A Brief History of Time by Stephen Hawking      
+- Atomic Habits by James Clear      
+- The Alamanack of Naval Ravikant by Eric Jorgenson      
+- The Lean Startup by Eric Ries        
+- The Diary of a young girl by Anne Frank      
+- The Alchemist by Paulo Coelho      
 </details>
 
