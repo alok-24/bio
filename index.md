@@ -18,6 +18,7 @@
 
 ### What I do?
 A shape rotator who applies Probability, Statistics, and Mathematics in my daily work, while also creating cutting-edge generative AI applications.
+Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
 ### Interests
 
@@ -25,7 +26,7 @@ A shape rotator who applies Probability, Statistics, and Mathematics in my daily
 `Gym` Regular gym goer \
 `Cricket` Bowling (Right Arm Fast) : [Profile](https://cricheroes.com/player-profile/22092437/alok/stats) \
 `Reading` Prefers genre `History, Psychology, Philosophy, Science and Enterpreneurship` \
-`Coding` Writing code is my profession : [Profile](https://www.linkedin.com/in/alokkik)\
+`Coding` Writing code is my profession \
 `Meditation` Vipassna practitioner \
 `Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
 
