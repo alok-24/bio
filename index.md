@@ -29,8 +29,8 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 ### Personality Traits
 
 `Calm` : Enjoys solitude and responds thoughtfully rather than instinctively.    
-`Mindful` : Likes to think deep to reason situations and actions.    
-`Healthful` : Eats clean, Non-smoker, Non-alcoholic, No cold-drinks, Vegetarian.    
+`Mindful` : Likes to think deep to reason situations and actions. And, loves to discuss philosophy.  
+`Healthful` : Eats clean, Vegetarian, Non-smoker, Non-alcoholic, No cold-drinks, Not on Social Media.    
 `Rationalist` : More often my actions and decisions are based on reasons rather than emotions.
 
 ### Education
