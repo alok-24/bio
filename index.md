@@ -27,10 +27,10 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 `Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
 
 ### Personality Traits
-`Mindful`
 `Calm`
+`Mindful`
 `Healthful`
-`Reader`
+`Thoughtful`
 `Rationalist`
 `Ponderer`
 
