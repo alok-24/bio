@@ -10,9 +10,11 @@
 |Native Place| Mainpuri|
 
 ### Contact Information
+
 `Ph. No.` : 9811910368
 
 ### What I do?
+
 A shape rotator who applies Probability, Statistics, and Mathematics in my daily work, while also creating cutting-edge generative AI applications.
 Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
@@ -28,10 +30,12 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
 ### Personality Traits
 
+`Spiritual` : Trying to find the answers to life's tough questions through Spiritual literature.    
 `Calm` : Enjoys solitude and responds thoughtfully rather than instinctively.    
 `Mindful` : Likes to think deep to reason situations and actions. And, loves to discuss philosophy.  
 `Healthful` : Eats clean, Vegetarian, Non-smoker, Non-alcoholic, No cold-drinks, Not on Social Media.    
-`Rationalist` : More often my actions and decisions are based on reasons rather than emotions.
+`Rationalist` : More often my actions and decisions are based on reasons rather than emotions.    
+`Non Materialist`: More often then not! I don't seek happiness through material possessions anymore.
 
 ### Education
 
