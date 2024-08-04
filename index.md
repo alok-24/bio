@@ -27,12 +27,11 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 `Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
 
 ### Personality Traits
-`Calm`
-`Mindful`
-`Healthful`
-`Thoughtful`
-`Rationalist`
-`Ponderer`
+
+`Calm` : Enjoys solitude and responds thoughtfully rather than instinctively.    
+`Mindful` : Likes to think deep to reason situations and actions.    
+`Healthful` : Eats clean, Non-smoker, Non-alcoholic, No cold-drinks, Vegetarian.    
+`Rationalist` : More often my actions and decisions are based on reasons rather than emotions.
 
 ### Education
 
@@ -44,7 +43,6 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
 ### Career
 `Sr. Data Scientist` with 6 years of work experience, currently employed with `Publicis Sapient, Noida`.
-
 
 ### Family Details
 
