@@ -38,15 +38,9 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 | `Intermediate` | `2012`  |
 | `B.Tech. Computer Science`  | `2017`  |
 
-### Professional Journey
+### Career
+`Sr. Data Scientist` with 6 years of work experience, currently employed with `Publicis Sapient, Noida`.
 
-| Company Name | Designation   |  Duration  | Location|
-|:--------------:|:---------------:|:------------:|:---------:|
-| Fishtail.ai | Sr. Data Scientist | Feb 2022 - Present · 1 yr 9 mos | Remote|
-| Exl Services | Lead Assistant Manager | Sept 2021 - June 2022 · 9 mos| Gurgaon |
-| AlphaCrest Capital Management | Data Scientist | May 2020 - Aug 2021 · 1 yr 4 mos| Noida|
-| Biz2Credit Infoservices | Data Scientist | Aug 2018 - Apr 2020 · 1 yr 9 mos | Noida|
-| Semusi| Machine Learning Engineer | Jun 2017 - Mar 2018 · 10 mos | Noida|
 
 ### Family Details
 
@@ -66,7 +60,7 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 - *Glimpses of World History* by Jawaharlal Nehru      
 - *A Brief History of Time* by Stephen Hawking      
 - *Atomic Habits* by James Clear      
-- *The Almanack of Naval Ravikant* by Eric Jorgenson      
+- *The Alamanack of Naval Ravikant* by Eric Jorgenson      
 - *The Lean Startup* by Eric Ries        
 - *The Diary of a Young Girl* by Anne Frank      
 - *The Alchemist* by Paulo Coelho
