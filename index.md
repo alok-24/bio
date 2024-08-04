@@ -1,20 +1,16 @@
 ## Alok Chauhan
-<details>
-  <summary>Photos</summary>
-  <img src="jpeg/IMG_4657.jpeg"/>
-  <img src="jpeg/IMG_4899.jpeg"/>
-  <img src="jpeg/IMG_3744.jpg"/>
-  <img src="jpeg/IMG_4629.jpeg"/>
-</details>
 
 ### About
 
-|    |    | 
+|    |    |
 |----|----|
 |Date of Birth| 24th September 1994|
 |Height| 5' 6''|
-|Complexion| Warm Beige|
+|Complexion| Wheatish |
 |Native Place| Mainpuri|
+
+### Contact Information
+`Ph. No.` : 9811910368
 
 ### What I do?
 A shape rotator who applies Probability, Statistics, and Mathematics in my daily work, while also creating cutting-edge generative AI applications.
@@ -30,13 +26,21 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 `Meditation` Vipassna practitioner \
 `Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
 
+### Personality Traits
+`Mindful`
+`Calm`
+`Healthful`
+`Reader`
+`Rationalist`
+`Ponderer`
+
 ### Education
 
-| Qualification  | Year  |
-|:---:|:---:|
-| `High school`  | `2010`  |
-| `Intermediate` | `2012`  |
-| `B.Tech. Computer Science`  | `2017`  |
+| Qualification  | Year  | Institution |
+|:---:|:---:|:---:|
+| `High school`  | `2010`  | `JKG School` |
+| `Intermediate` | `2012`  | `JKG School` |
+| `B.Tech. Computer Science`  | `2017`  | `ABES Engineer College(UPTU)`|
 
 ### Career
 `Sr. Data Scientist` with 6 years of work experience, currently employed with `Publicis Sapient, Noida`.
@@ -52,7 +56,7 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 | Shruti | Sister | B.Com Honors | Studying|
 
 
-### Books
+### Books Read
 - श्रीमद्भगवद्गीता      
 - अष्टावक्र गीता    
 - *My Gita* by Devdutt Pattanaik      
@@ -64,5 +68,15 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 - *The Lean Startup* by Eric Ries        
 - *The Diary of a Young Girl* by Anne Frank      
 - *The Alchemist* by Paulo Coelho
+
+### Photos
+<details>
+  <summary> Click! 📸 </summary>
+  <img src="jpeg/IMG_1234.JPG"/>
+  <img src="jpeg/IMG_4657.jpeg"/>
+  <img src="jpeg/IMG_4899.jpeg"/>
+  <img src="jpeg/IMG_3744.jpg"/>
+  <img src="jpeg/IMG_4629.jpeg"/>
+</details>
 
 
