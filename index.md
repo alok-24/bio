@@ -57,17 +57,24 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
 
 ### Books Read
-- श्रीमद्भगवद्गीता      
-- अष्टावक्र गीता    
-- *My Gita* by Devdutt Pattanaik      
-- *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
-- *Glimpses of World History* by Jawaharlal Nehru      
-- *A Brief History of Time* by Stephen Hawking      
-- *Atomic Habits* by James Clear      
-- *The Alamanack of Naval Ravikant* by Eric Jorgenson      
-- *The Lean Startup* by Eric Ries        
-- *The Diary of a Young Girl* by Anne Frank      
-- *The Alchemist* by Paulo Coelho
+
+* Favourites
+  - श्रीमद्भगवद्गीता 
+  - अष्टावक्र गीता
+  - Sapiens: A Brief History of Humankind
+
+* All
+  - श्रीमद्भगवद्गीता      
+  - अष्टावक्र गीता    
+  - *My Gita* by Devdutt Pattanaik      
+  - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
+  - *Glimpses of World History* by Jawaharlal Nehru      
+  - *A Brief History of Time* by Stephen Hawking      
+  - *Atomic Habits* by James Clear      
+  - *The Alamanack of Naval Ravikant* by Eric Jorgenson      
+  - *The Lean Startup* by Eric Ries        
+  - *The Diary of a Young Girl* by Anne Frank      
+  - *The Alchemist* by Paulo Coelho
 
 ### Photos
 <details>
