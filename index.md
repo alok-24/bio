@@ -43,7 +43,7 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 |:---:|:---:|:---:|
 | `High school`  | `2010`  | `JKG School` |
 | `Intermediate` | `2012`  | `JKG School` |
-| `B.Tech. Computer Science`  | `2017`  | `ABES Engineer College(UPTU)`|
+| `B.Tech. Computer Science`  | `2017`  | `ABES Engineering College(UPTU)`|
 
 ### Career
 `Sr. Data Scientist` with 6 years of work experience, currently employed with `Publicis Sapient, Noida`.
@@ -66,8 +66,8 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
   - Sapiens: A Brief History of Humankind
 
 * All
-  - श्रीमद्भगवद्गीता      
-  - अष्टावक्र गीता    
+  - *श्रीमद्भगवद्गीता*      
+  - *अष्टावक्र गीता*    
   - *My Gita* by Devdutt Pattanaik      
   - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
   - *Glimpses of World History* by Jawaharlal Nehru      
