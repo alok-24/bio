@@ -7,7 +7,6 @@
 |Date of Birth| 24th September 1994|
 |Height| 5' 6''|
 |Complexion| Wheatish |
-|Native Place| Mainpuri|
 
 ### Contact Information
 
