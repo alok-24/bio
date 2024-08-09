@@ -69,13 +69,13 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
   - *अष्टावक्र गीता*    
   - *My Gita* by Devdutt Pattanaik      
   - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari      
-  - *Glimpses of World History* by Jawaharlal Nehru      
-  - *A Brief History of Time* by Stephen Hawking      
+  - *Glimpses of World History* by Jawaharlal Nehru            
   - *Atomic Habits* by James Clear      
   - *The Alamanack of Naval Ravikant* by Eric Jorgenson      
   - *The Lean Startup* by Eric Ries        
   - *The Diary of a Young Girl* by Anne Frank      
-  - *The Alchemist* by Paulo Coelho
+  - *The Alchemist* by Paulo Coelho 
+  - *A Brief History of Time* by Stephen Hawking (Reading...)
 
 ### Photos
 <details>
