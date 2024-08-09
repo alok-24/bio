@@ -29,7 +29,7 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 
 ### Personality Traits
 
-`Spiritual` : Trying to find the answers to life's tough questions through spiritual literature.    
+`Spiritual` : Trying to find the answers to life's tough questions through philosophical literature.    
 `Calm` : Enjoys solitude and responds thoughtfully rather than instinctively.    
 `Mindful` : Likes to think deep to reason situations and actions. And, loves to discuss philosophy.  
 `Healthful` : Eat clean, Vegetarian, Non-Smoker, Non-Alcoholic, No Cold-Drinks, Not on Social Media.    
