@@ -22,7 +22,7 @@ Here's my Linkedin [profile](https://www.linkedin.com/in/alokkik).
 `Trekking` Kheerganga, Kedarnath, Valley of flowers, Chopta, Khaliya Top, Thamri Kund and some off-beat treks\
 `Gym` Regular gym goer \
 `Cricket` Bowling (Right Arm Fast) : [Profile](https://cricheroes.com/player-profile/22092437/alok/stats) \
-`Reading` Prefers genre `History, Psychology, Philosophy, Science and Enterpreneurship` \
+`Reading` Prefers genre `History, Philosophy, Science and Enterpreneurship` \
 `Coding` Writing code is my profession \
 `Meditation` Vipassna practitioner \
 `Chess` Play online tournaments(Chess.com) : [Profile](https://www.chess.com/stats/live/rapid/imallok)
